@@ -232,12 +232,12 @@ After editing, click on Save button on top menu bar.
 
 #Author Info
 ---------------
-###Posted by Akhilesh Kolipaka at april 24, 2020###
+## Posted by Akhilesh Kolipaka at april 24, 2020
 
-If you like our articles and would like to appreciate our efforts. support me 
+### If you like our articles and would like to appreciate our efforts. support me 
 
-We will be grateful for any support from you.
-:smile: Thank you!
+### We will be grateful for any support from you.
+### :smile: Thank you!
 
 
 
