@@ -139,16 +139,22 @@ success
 ```
 
 ###Browse URL http://prometheus-01.example.com:3000/ in a client's browser.
-if you wish to see the dashboard of Grafana select the link of [Grafana_image] (https://4.bp.blogspot.com/-DQVVbrg95tU/XcQtfZRuHTI/AAAAAAAAGxY/9ol0JYx6QCApwsCTm--uHweWuJdqMrp-gCLcBGAsYHQ/s1600/01-grafana-web-ui-login.png)
+if you wish to see the dashboard of Grafana select the link of [Grafana_image](https://4.bp.blogspot.com/-DQVVbrg95tU/XcQtfZRuHTI/AAAAAAAAGxY/9ol0JYx6QCApwsCTm--uHweWuJdqMrp-gCLcBGAsYHQ/s1600/01-grafana-web-ui-login.png)
 
-###NOTE: The default user/password for Grafana is admin/admin.
+**##NOTE: The default user/password for Grafana is admin/admin.
 
-Because, we are login for the first time, therefore, Grafana prompt us to change the default password of admin user. click for [HOME_DASHBOARD](https://1.bp.blogspot.com/-kKGhrwNAvf4/XcQtgnk0HCI/AAAAAAAAGxs/EqdQlcgVXvoZrObZPw56M5qmiSiJdpPLQCLcBGAsYHQ/s1600/03-grafana-home-dashboard.png)
+Because, we are login for the first time, therefore, Grafana prompt us to change the default password of admin user. click for [HOME_DASHBOARD_image](https://1.bp.blogspot.com/-kKGhrwNAvf4/XcQtgnk0HCI/AAAAAAAAGxs/EqdQlcgVXvoZrObZPw56M5qmiSiJdpPLQCLcBGAsYHQ/s1600/03-grafana-home-dashboard.png)
 
 Add Prometheus Data Source in Grafana:
 After successful login, we are now at the main screen of Grafana Web UI.
-Click on ``Add Data Source.|
-         ```   
+Click on Add Data Source.|
+
+for image [click](https://1.bp.blogspot.com/-7zm5eeJxy4s/XcQthI4vvdI/AAAAAAAAGxw/4TKGE6001S0n9IbUNz7yCtsiJp6S9e7lgCLcBGAsYHQ/s1600/04-grafana-add-data-source.jpg)
+
++select and Click on Prometheus opction
+
+     
+         
 
 
 
