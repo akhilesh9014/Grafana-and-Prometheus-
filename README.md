@@ -8,5 +8,7 @@ In this article, we are installing Grafana and Prometheus on CentOS 7. And we wi
 
 Prometheus: Up & Running by O'Reilly Media is a recommended book for the sysadmins, who want to learn more about creating dashboards in Grafana for Prometheus metrics.
 
+[link](https://4.bp.blogspot.com/-DQVVbrg95tU/XcQtfZRuHTI/AAAAAAAAGxY/9ol0JYx6QCApwsCTm--uHweWuJdqMrp-gCLcBGAsYHQ/s1600/01-grafana-web-ui-login.png)
+
 
 
