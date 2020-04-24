@@ -42,7 +42,7 @@ Moreover, we can also install Grafana using it's yum repository. Therefore, we a
 [root@prometheus-01 ~]# vi /etc/yum.repos.d/grafana.repo
 ```
 
-and add following directives therein.
+### and add following directives therein.
 
 ```
 [grafana]
@@ -183,21 +183,21 @@ Now, to add a dashboard for Prometheus, click on Dashboards tab
 
 ![](https://1.bp.blogspot.com/-iF8b4jVpQqU/XcQtihwy6_I/AAAAAAAAGyI/91dvkdJGehcFQxk0SyGqv7Ud8UYL35wjQCLcBGAsYHQ/s1600/07-grafana-prometheus-dashboards.jpg)
 
-#### Here, you can see the available dashboards related to Prometheus data source.
+### Here, you can see the available dashboards related to Prometheus data source.
 
-#### Import a dashboard by clicking on the import button
+### Import a dashboard by clicking on the import button
 
 ![](https://4.bp.blogspot.com/-Vhd0btwzP80/XcQtjJ3BBaI/AAAAAAAAGyQ/xghgch9QujQm9P2NdwZGStuDzX2L-bf3ACLcBGAsYHQ/s1600/08-grafana-prometheus-dashboards-imported.jpg)
 
-##### To customize this dashboard, click on Dashboards > Manage button from the left sidebar
+### To customize this dashboard, click on Dashboards > Manage button from the left sidebar
 
 ![](https://1.bp.blogspot.com/-NgM9fEFYiqE/XcQtjpLWhRI/AAAAAAAAGyY/UZ09l_DuCZ4tBwdHndG1nElMhJLXO6tbgCLcBGAsYHQ/s1600/09-grafana-dashboards-manage.jpg)
 
-##### Click on the Prometheus 2.0 Stats dashboard
+### Click on the Prometheus 2.0 Stats dashboard
 
 ![](https://2.bp.blogspot.com/-R1f6HFeAdyI/XcQtkqCmZyI/AAAAAAAAGyg/AFKtlPKlfBk-3OFU69aS_JfuIIXaAnsawCLcBGAsYHQ/s1600/10-grafana-prometheus-2-stats.jpg)
 
-###### stomize this dashboard according to your requirements
+#### stomize this dashboard according to your requirements
 
 Create Alerts in Grafana:
 ---------------------------------------------------------------------------------
@@ -215,22 +215,22 @@ Create Alerts in Grafana:
 
 ##### Now click on Dashboards > Manage > Prometheus 2.0 Stats.
 
-Click on Bell icon (Alert) button on left side of the page.
+**Click on Bell icon (Alert) button on left side of the page.
 
 ![](https://4.bp.blogspot.com/-VnORwhU3jDA/XcQtmuAYo2I/AAAAAAAAGzA/H6gwOLjSWssSOpz2ATknpbOAaFvtPcbjQCLcBGAsYHQ/s1600/14-grafana-prometheus-2-stats-alert.jpg)
 
-Click on Create Alert.
+**Click on Create Alert.
 
 ![](https://4.bp.blogspot.com/-_ubaebGTZ24/XcQtm9hZDxI/AAAAAAAAGzI/pTvPvS1oCqkXOD2_6Lq8kDEDEzbjfQ9wACLcBGAsYHQ/s1600/15-grafana-add-alert.jpg)
 
-After editing, click on Save button on top menu bar.
+**After editing, click on Save button on top menu bar.
 
 ![](https://3.bp.blogspot.com/-fIc4sT4t-sE/XcQtnqCTjzI/AAAAAAAAGzQ/tL2F4aZHBX0ranIi8dxjfNtpFt1ZKXdPwCLcBGAsYHQ/s1600/16-grafana-save-dashboard.jpg)
 
-####We have successfully installed Grafana and Prometheus on CentOS 7 and created a dashboard and alert for Prometheus metrics
+### We have successfully installed Grafana and Prometheus on CentOS 7 and created a dashboard and alert for Prometheus metrics
 
 
-#Author Info
+# Author Info
 ---------------
 ## Posted by Akhilesh Kolipaka at april 24, 2020
 
