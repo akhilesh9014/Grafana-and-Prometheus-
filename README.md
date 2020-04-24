@@ -139,7 +139,7 @@ success
 ```
 
 ###Browse URL http://prometheus-01.example.com:3000/ in a client's browser.
-if you wish to see the dashboard of Grafana select the link of [Grafana_image](https://4.bp.blogspot.com/-DQVVbrg95tU/XcQtfZRuHTI/AAAAAAAAGxY/9ol0JYx6QCApwsCTm--uHweWuJdqMrp-gCLcBGAsYHQ/s1600/01-grafana-web-ui-login.png)
+if you wish to see the dashboard of Grafana select the link of ![](https://4.bp.blogspot.com/-DQVVbrg95tU/XcQtfZRuHTI/AAAAAAAAGxY/9ol0JYx6QCApwsCTm--uHweWuJdqMrp-gCLcBGAsYHQ/s1600/01-grafana-web-ui-login.png)
 
 **##NOTE: The default user/password for Grafana is admin/admin.
 
