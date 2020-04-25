@@ -1,4 +1,4 @@
-# Install Grafana and Prometheus on CentOS 7 #
+# Install Grafana and Prometheus on CentOS 7 
 
 Although Prometheus is very good at collection, alerting and searching for metrics. But it does not include a native tool for creating custom dashboards. Although, we can create custom dashboards for the metrics collected by Prometheus by using another free and open source software i.e. Grafana.
 
@@ -7,6 +7,8 @@ Grafana is a free and open-source, general-purpose graph and dashboard composer.
 In this article, we are installing Grafana and Prometheus on CentOS 7. And we will use Grafana Web UI to create a dashboard for Prometheus metrics.
 
 Prometheus: Up & Running by O'Reilly Media is a recommended book for the sysadmins, who want to learn more about creating dashboards in Grafana for Prometheus metrics.
+
+# if you wish to know the my prometheus-role which is use to setup grafana and prometheus with single ansible-role click the [link](https://github.com/akhilesh9014/Ansible-multi-stage-Role.git) :point_left: button and it's show the prometheus-role 
 
 ### This Article Provides
 ***
