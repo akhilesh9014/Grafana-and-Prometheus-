@@ -8,7 +8,7 @@ In this article, we are installing Grafana and Prometheus on CentOS 7. And we wi
 
 Prometheus: Up & Running by O'Reilly Media is a recommended book for the sysadmins, who want to learn more about creating dashboards in Grafana for Prometheus metrics.
 
-# if you wish to know the my prometheus-role which is use to setup grafana and prometheus with single ansible-role click the [link](https://github.com/akhilesh9014/Ansible-multi-stage-Role.git) :point_left: button and it's show the prometheus-role 
+# If you wish to know the my prometheus-role which is use to setup grafana and prometheus with single ansible-role click the [link](https://github.com/akhilesh9014/prometheus-role.git) :point_left: button and it's show the prometheus-role 
 
 ### This Article Provides
 ***
